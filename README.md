@@ -1,4 +1,4 @@
-# SloWey - Story Notification Chrome Extension
+# Story Notification Chrome Extension
 
 The SloWey - Story Notification Chrome extension is a useful tool that allows you to receive notifications whenever a specific friend views your story on Facebook.
 
